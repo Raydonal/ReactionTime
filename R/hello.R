@@ -13,6 +13,7 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
+# cosa
 
 
 hello <- function() {
